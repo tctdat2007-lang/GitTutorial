@@ -1,7 +1,7 @@
 public class GreetingMachine {
 
     public void greet() {
-        System.out.println("Hello World!");
+        System.out.println("Hello from Conflict Branch!");
     }
 
     public void greet(String message) {
